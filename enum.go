@@ -28,6 +28,8 @@ const (
 	BCH        = ZeroQuote + 145
 	QTUM       = ZeroQuote + 2301
 
+	TRON = ZeroQuote + 195
+
 	// btc token
 	USDT = BTCToken + 1
 
